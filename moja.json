@@ -1,54 +1,54 @@
 {
-	"providerName": "Roku Developers",
+	"providerName": "MojaDramaOne Podcast",
 	"language": "en-US",
-	"lastUpdated": "2020-03-15T02:01:00+02:00",
-	"shortFormVideos": [
+	"lastUpdated": "2025-11-07T02:01:00+02:00",
+	"Featured Episodes": [
 	{
-			"longDescription": "Learn how streaming works on the Roku platform. This video explains how content is delivered from a content delivery network (CDN) to a Roku device via a content feed",
-			"thumbnail": "https://image.roku.com/ZHZscHItMTc2/streaming-overview.jpg",
-			"releaseDate": "2020-01-15",
+			"longDescription": "The Final Chapters of Genesis.",
+			"thumbnail": "http://archive.org/download/itb-genesis-38-S2/itb-genesis-38-S2.thumbs/sp-20251109-1080p-30f-20251113-043015_000001.jpg",
+			"releaseDate": "2025-10-12",
 			"genres": [
-				"educational"
+				"drama"
 			],
 			"tags": [
-				"getting-started"
+				"Genesis, KVJ, Bible, In The Beginning"
 			],
-			"id": "shortform-roku-streaming-overview",
-			"shortDescription": "Learn how streaming works on the Roku platform. This video explains how content is delivered from a content delivery network (CDN) to a Roku device via a content feed",
-			"title": "Streaming overview",
+			"id": "In-The-Beginning-Genesis-38",
+			"shortDescription": "The Final Chapters of Genesis.",
+			"title": "ITB | Genesis 38",
 			"content": {
-				"duration": 100,
+				"duration": 2075,
 				"videos": [{
 					"videoType": "MP4",
-					"url": "https://image.roku.com/ZHZscHItMTc2/roku-streaming-overview-v3.mp4",
+					"url": "https://ia803107.us.archive.org/11/items/itb-genesis-38-S2/sp_20251109-Copy_1080p_30f_20251125_091301.mp4",
 					"quality": "HD"
 				}],
 				"language": "en-us",
-				"dateAdded": "2020-01-15T02:39:11Z"
+				"dateAdded": "2025-11-18T02:39:11Z"
 			}
 		},
 		{
-			"longDescription": "Learn how Roku's rapidly growing user base makes developing for the Roku platform a viable opportunity. See how developing for the Roku platform is free and easy. There's no cost to enroll in the Roku developer program, develop channels, or publish them to the Roku Channel Store, which is Roku's app marketplace. The Roku channel UI is defined with SceneGraph, Roku's object-oriented UI XML framework, and the channel behavior is defined using BrightScript, which is Roku's scripting language.",
-			"thumbnail": "https://image.roku.com/ZHZscHItMTc2/roku-overview.jpg",
-			"releaseDate": "2020-01-15",
+			"longDescription": "The dream of Pharaoh is one: God hath shewed Pharaoh what he is about to do.",
+			"thumbnail": "https://archive.org/download/itb-genesis-30-38-S2/itb-genesis-30-38-S2.thumbs/sp-20250923-1080p-30f-20250923-050926_000114.jpg",
+			"releaseDate": "2024-07-13",
 			"genres": [
-				"educational"
+				"drama"
 			],
 			"tags": [
-				"getting-started"
+				"Genesis, KVJ, Bible, In The Beginning"
 			],
-			"id": "shortform-roku-development-overview",
-			"shortDescription": "Learn how Roku's rapidly growing user base makes developing for the Roku platform a viable opportunity",
-			"title": "Roku Development Overview",
+			"id": "In-The-Beginning-Genesis-30-38",
+			"shortDescription": "The dream of Pharaoh is one: God hath shewed Pharaoh what he is about to do.",
+			"title": "ITB | Genesis 30-38",
 			"content": {
-				"duration": 248,
+				"duration": 3526,
 				"videos": [{
 					"videoType": "MP4",
-					"url": "https://image.roku.com/ZHZscHItMTc2/roku-overview.mp4",
+					"url": "https://ia800708.us.archive.org/16/items/itb-genesis-30-38-S2/sp-20250923-1080p-30f-20250923-050926.mp4",
 					"quality": "HD"
 				}],
 				"language": "en-us",
-				"dateAdded": "2020-01-29T02:39:11Z"
+				"dateAdded": "2025-11-18T02:39:11Z"
 			}
 		},
 		{
