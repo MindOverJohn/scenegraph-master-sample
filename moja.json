@@ -52,60 +52,49 @@
 			}
 		},
 		{
-			"longDescription": "Steps for enabling Developer Mode on a Roku device",
-			"thumbnail": "https://image.roku.com/ZHZscHItMTc2/enable-developer-mode-v1b.png",
-			"releaseDate": "2020-01-17",
+			"longDescription": "Phileas Fogg in person. The reader will remember that at five minutes past eight in the evening—about five and twenty hours after the arrival of the travelers in London—Passepartout had been sent by his master to engage the services of the Reverend Samuel Wilson in a certain marriage ceremony, which was to take place the next day. ",
+			"thumbnail": "https://archive.org/download/ATW-Ch35-around-the-world-unless-were-happiness-aroundtheworldin-80days-S1/ATW-Ch35-around-the-world-unless-were-happiness-aroundtheworldin-80days-S1.thumbs/PHILEAS-FOGG-GAINED-NOTHING-BY-TOUR-AROUND-THE-WORLD--UNLESS-WERE-HAPPINESS--aroundtheworldin80days_000001.jpg",
+			"releaseDate": "2024-12-08",
 			"genres": [
-				"educational"
+				"drama"
 			],
 			"tags": [
-				"getting-started"
+				"Around the World, Project Gutenberg, Jules Verne"
 			],
-			"id": "shortform-a893e770b636f6459dcf027fe361cd49d7ac44c2",
-			"shortDescription": "Steps for enabling Developer Mode on a Roku device",
-			"title": "Enabling Developer Mode",
+			"id": "atw-ch35sb636f6459dcf027fe361cd49d7ac44c2",
+			"shortDescription": "Phileas Fogg in person. The reader will remember that at five minutes past eight in the evening—about five and twenty hours after the arrival of the travelers in London",
+			"title": "ATW| Chapter 35",
 			"content": {
-				"duration": 120,
+				"duration": 1143,
 				"videos": [{
-					"videoType": "DASH",
-					"url": "https://ovp-selector.sr.roku.com/v1/12cdcf33-58e7-46a6-bbbf-cbb5c5fec500?format=dash",
+					"videoType": "MP4",
+					"url": "https://ia601408.us.archive.org/33/items/ATW-Ch35-around-the-world-unless-were-happiness-aroundtheworldin-80days-S1/PHILEAS-FOGG-GAINED-NOTHING-BY-TOUR-AROUND-THE-WORLD--UNLESS-WERE-HAPPINESS--aroundtheworldin80days.mp4",
 					"quality": "HD"
 				}],
 				"language": "en-us",
-				"dateAdded": "2020-01-29T02:39:11Z"
+				"dateAdded": "2025-11-17T02:39:11Z"
 			}
 		},
 			{
-			"longDescription": "Video highlighting Direct to Play and Enhanced Voice Control features",
-			"thumbnail": "https://d6hm6c1vbpfva.cloudfront.net/shortform-4be9d883d51ca3161c780d261c3e1ef480e7e56d_2/images/VoiceFeatures.jpg",
-			"releaseDate": "2020-01-17",
+			"longDescription": "It is time to relate what a change took place in English public opinion when it transpired that the real bankrobber, a certain James Strand, had been arrested, on the 17th day of December, at Edinburgh. Three days before, Phileas Fogg had been a criminal, who was being desperately followed up by the police; now he was an honourable gentleman, mathematically pursuing his eccentric journey round the world. ",
+			"thumbnail": "https://archive.org/download/ATW-Ch34-aroundtheworldin-80days-S1/ATW-Ch34-aroundtheworldin-80days-S1.thumbs/IN-WHICH-PHILEAS-FOGG-S-NAME-IS-ONCE-MORE-AT-A-PREMIUM-ON--CHANGE--aroundtheworldin80days_000001.jpg",
+			"releaseDate": "2024-12-08",
 			"genres": [
-				"educational"
+				"drama"
 			],
 			"tags": [
-				"feature"
+				"Around the World, Project Gutenberg, Jules Verne"
 			],
-			"id": "shortform-4be9d883d51ca3161c780d261c3e1ef480e7e56d",
-			"shortDescription": "Video highlighting Direct to Play and Enhanced Voice Control features",
-			"title": "Voice Features",
+			"id": "atw-ch34",
+			"shortDescription": "It is time to relate what a change took place in English public opinion when it transpired that the real bankrobber, a certain James Strand, had been arrested",
+			"title": "ATW| Chapter 34",
 			"content": {
-				"duration": 98,
+				"duration": 720,
 				"videos": [{
 					"videoType": "MP4",
-					"url": "https://image.roku.com/ZHZscHItMTc2/roku-voice-demo-v4.mp4",
+					"url": "https://ia903209.us.archive.org/31/items/ATW-Ch34-aroundtheworldin-80days-S1/IN-WHICH-PHILEAS-FOGG-S-NAME-IS-ONCE-MORE-AT-A-PREMIUM-ON--CHANGE--aroundtheworldin80days.mp4",
 					"quality": "HD"
 				}],
-				"language": "en-us",
-				"dateAdded": "2020-01-29T02:39:12Z",
-				"captions": [{
-						"language": "en",
-						"captionType": "CLOSED_CAPTION",
-						"url": "https://d6hm6c1vbpfva.cloudfront.net/shortform-4be9d883d51ca3161c780d261c3e1ef480e7e56d_2/captions/VoiceFeatures_cc_eng.srt"
-					},
-					{
-						"language": "en",
-						"captionType": "CLOSED_CAPTION",
-						"url": "https://d6hm6c1vbpfva.cloudfront.net/shortform-4be9d883d51ca3161c780d261c3e1ef480e7e56d_2/captions/VoiceFeatures_cc_eng.vtt"
 					}
 				]
 			}
