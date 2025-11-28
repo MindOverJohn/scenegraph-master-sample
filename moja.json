@@ -94,7 +94,22 @@
 					"videoType": "MP4",
 					"url": "https://ia903209.us.archive.org/31/items/ATW-Ch34-aroundtheworldin-80days-S1/IN-WHICH-PHILEAS-FOGG-S-NAME-IS-ONCE-MORE-AT-A-PREMIUM-ON--CHANGE--aroundtheworldin80days.mp4",
 					"quality": "HD"
-				}]
+				}],
+				"language": "en-us",
+				"dateAdded": "2020-01-29T02:39:12Z",
+				"captions": [{
+						"language": "en",
+						"captionType": "CLOSED_CAPTION",
+						"url": "https://d6hm6c1vbpfva.cloudfront.net/shortform-4be9d883d51ca3161c780d261c3e1ef480e7e56d_2/captions/VoiceFeatures_cc_eng.srt"
+					},
+					{
+						"language": "en",
+						"captionType": "CLOSED_CAPTION",
+						"url": "https://d6hm6c1vbpfva.cloudfront.net/shortform-4be9d883d51ca3161c780d261c3e1ef480e7e56d_2/captions/VoiceFeatures_cc_eng.vtt"
+					}
+				]
+			}
+		}
 	],
 	"series": [{
 			"id": "series_1_tips",
