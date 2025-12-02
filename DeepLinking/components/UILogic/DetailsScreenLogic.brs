@@ -74,12 +74,12 @@ sub HandlePlayButton(content as Object, selectedItem as Integer, isResume = fals
             episode.bookmarkPosition = 0
         end if
         ' create a Video node and start playback
-        CheckSubscriptionAndStartPlayback(node, index, true)
+        ShowVideoScreen(node, index, true)
     else
         if isResume = false
             itemContent.bookmarkPosition = 0
         end if
-        CheckSubscriptionAndStartPlayback(content, selectedItem)
+        ShowVideoScreen(content, selectedItem)
     end if
     if m.selectedIndex = invalid
         m.selectedIndex = [0, 0]

@@ -112,13 +112,13 @@
 		}
 	],
 	"series": [{
-			"id": "series_1_tips",
-			"title": "Roku Tips & Tricks",
-			"releaseDate": "2020-03-15T02:01:00+02:00",
-			"shortDescription": "Videos highlighting Roku products and features",
-			"thumbnail": "https://image.roku.com/ZHZscHItMTc2/tips-tricks.jpg",
+			"id": "series_1_world",
+			"title": "Around the World in 80 Days",
+			"releaseDate": "2024-12-08T02:01:00+02:00",
+			"shortDescription": "A Narative Journey of Around the World in 80 Days presented in Augie Studo",
+			"thumbnail": "https://ia800109.us.archive.org/29/items/Atw-ch9--s1/s1.jpg",
 			"genres": [
-				"educational"
+				"drama"
 			],
 			"tags": [
 				"tips"
@@ -126,17 +126,17 @@
 			"seasons": [{
 					"title": "Season 1",
 					"episodes": [{
-							"id": "shortform-2f0155ecdcc96789596c0fc77f06b45ca0df15a4",
-							"title": "How to listen to music",
+							"id": "shortform-s1e1accepteachother",
+							"title": "ATW | Chapter 1",
 							"episodeNumber": 1,
 							"content": {
-								"dateAdded": "2020-03-06T20:25:52Z",
+								"dateAdded": "2025-11-17T02:39:11Z",
 								"videos": [{
-									"videoType": "HLS",
-									"url": "https://d1n7kckvd41xqg.cloudfront.net/61f6f859d30743378290300e99f2f53a/ac885a2fea4d4cbeafb279b33e8ba342/21b582aed3134cd4ad03dc646e04282d/index.m3u8",
+									"videoType": "MP4",
+									"url": "https://archive.org/download/yt1z.net---PHILEAS-FOGG-AND-PASSEPARTOUT-ACCEPT-EACH-OTHER-aroundtheworldin80days-Season1--720p-/yt1z.net---PHILEAS-FOGG-AND-PASSEPARTOUT-ACCEPT-EACH-OTHER-aroundtheworldin80days-Season1--720p-.mp4",
 									"quality": "HD"
 								}],
-								"duration": 187,
+								"duration": 549,
 								"captions": [{
 										"language": "en",
 										"captionType": "CLOSED_CAPTION",

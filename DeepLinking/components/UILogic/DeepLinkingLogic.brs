@@ -54,7 +54,7 @@ end sub
 ' Play the content identified by the contentId
 sub HandlePlayableMediaTypes(content as Object)
     PrepareDetailsScreen(content) ' create detailsScreen and push it to the screen stack
-    CheckSubscriptionAndStartPlayback(content) ' Launch a Video
+    ShowVideoScreen(content) ' Launch a Video
 end sub
 
 ' Handler for "series" type
@@ -80,7 +80,7 @@ sub HandleSeriesMediaType(content as Object)
         end if
     end if
     PrepareDetailsScreen(node.getChild(index)) ' create detailsScreen and push it to the screen stack
-    CheckSubscriptionAndStartPlayback(node, index, true) ' launch the episode where the user stopped watching
+    ShowVideoScreen(node, index, true) ' launch the episode where the user stopped watching
 end sub
 
 sub PrepareDetailsScreen(content as Object)
@@ -118,5 +118,5 @@ sub OnDeepLinkDetailsScreenButtonSelected(event as Object) ' invoked when button
     if button.id = "play"
         content.bookmarkPosition = 0
     end if
-    CheckSubscriptionAndStartPlayback(content) ' show last played video
+    ShowVideoScreen(content) ' show last played video
 end sub

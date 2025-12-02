@@ -24,19 +24,19 @@
             />
             <LayoutGroup translation="[0.0, 10.0]" itemSpacings="[16]">
                 <Label id="title"
-                    color="#EFEFEFFF"
+                    color="#f5f7eff0"
                     maxLines="2"
                     width="310"
                     wrap="true"
                 />
                 <Label id="info"
-                    color="#FFFFFF6F"
+                    color="#ffffffff"
                     maxLines="2"
                     width="310"
                     wrap="true"
                 />
                 <Label id="description"
-                    color="#FFFFFF6F"
+                    color="#f7f4f4ff"
                     maxLines="4"
                     width="310"
                     wrap="true"
