@@ -126,7 +126,7 @@
 			"seasons": [{
 					"title": "Season 1",
 					"episodes": [{
-							"id":"shortform-s1e61Aroundtheworld",
+							"id":"shortform-s1e1Aroundtheworld",
 							"title": "ATW | Chapter 1",
 							"episodeNumber": 1,
 							"content": {
@@ -171,8 +171,6 @@
 							"genres": [
 								"drama"
 							],
-
-							]
 							]
 						}
 					]
