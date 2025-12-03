@@ -121,36 +121,139 @@
 				"drama"
 			],
 			"tags": [
-				"Around the World, AudioDrama, Project Gutenberg"
+				"tips"
 			],
 			"seasons": [{
 					"title": "Season 1",
 					"episodes": [{
-							"id":"shortform-s1e1Aroundtheworld",
+							"id": "shortform-s1e1accepteachother",
 							"title": "ATW | Chapter 1",
 							"episodeNumber": 1,
 							"content": {
-								"dateAdded": "2025-11-03T19:08:55Z",
+								"dateAdded": "2025-11-17T02:39:11Z",
 								"videos": [{
 									"videoType": "MP4",
 									"url": "https://archive.org/download/yt1z.net---PHILEAS-FOGG-AND-PASSEPARTOUT-ACCEPT-EACH-OTHER-aroundtheworldin80days-Season1--720p-/yt1z.net---PHILEAS-FOGG-AND-PASSEPARTOUT-ACCEPT-EACH-OTHER-aroundtheworldin80days-Season1--720p-.mp4",
 									"quality": "HD"
 								}],
-								"duration": 540,
+								"duration": 549,
+								"captions": [{
+										"language": "en",
+										"captionType": "CLOSED_CAPTION",
+										"url": "https://d6hm6c1vbpfva.cloudfront.net/shortform-2f0155ecdcc96789596c0fc77f06b45ca0df15a4_3/captions/HowToListenToMusic_cc_eng.srt"
+									},
+									{
+										"language": "en",
+										"captionType": "CLOSED_CAPTION",
+										"url": "https://d6hm6c1vbpfva.cloudfront.net/shortform-2f0155ecdcc96789596c0fc77f06b45ca0df15a4_3/captions/HowToListenToMusic_cc_eng.vtt"
+									}
+								],
 								"language": "en-us"
 							},
-							"thumbnail": "https://archive.org/download/Atw-ch6-aroundtheworldin-80days/Atw-ch6-aroundtheworldin-80days.thumbs/IN-WHICH-FIX--THE-DETECTIVE--BETRAYS-A-VERY-NATURAL-IMPATIENCE--aroundtheworldin80days_000001.jpghttps://archive.org/download/yt1z.net---PHILEAS-FOGG-AND-PASSEPARTOUT-ACCEPT-EACH-OTHER-aroundtheworldin80days-Season1--720p-/yt1z.net---PHILEAS-FOGG-AND-PASSEPARTOUT-ACCEPT-EACH-OTHER-aroundtheworldin80days-Season1--720p-.thumbs/yt1z.net---PHILEAS-FOGG-AND-PASSEPARTOUT-ACCEPT-EACH-OTHER-aroundtheworldin80days-Season1--720p-_000058.jpg",
-							"shortDescription": "Mr. Phileas Fogg lived, in 1872, at No. 7, Saville Row",
+							"thumbnail": "https://archive.org/download/yt1z.net---PHILEAS-FOGG-AND-PASSEPARTOUT-ACCEPT-EACH-OTHER-aroundtheworldin80days-Season1--720p-/yt1z.net---PHILEAS-FOGG-AND-PASSEPARTOUT-ACCEPT-EACH-OTHER-aroundtheworldin80days-Season1--720p-.thumbs/yt1z.net---PHILEAS-FOGG-AND-PASSEPARTOUT-ACCEPT-EACH-OTHER-aroundtheworldin80days-Season1--720p-_000058.jpg",
+							"shortDescription": "Mr. Phileas Fogg lived, in 1872, at No. 7, Saville Row, Burlington Gardens",
+							"releaseDate": "2024-12-01",
+							"longDescription": "Mr. Phileas Fogg lived, in 1872, at No. 7, Saville Row, Burlington Gardens, the house in which Sheridan died in 1814.",
+							"tags": [
+								"Around the World, AudioDrama, Project Gutenberg"
+							],
+							"genres": [
+								"drama"	
+							]
+						},
+						{
+							"id": "shortform-s1e2Aroundtheworld",
+							"title": "ATW | Chapter 2",
+							"episodeNumber": 2,
+							"content": {
+								"dateAdded": "2025-11-03T19:08:55Z",
+								"videos": [{
+									"videoType": "MP4",
+									"url": "https://archive.org/download/ATW-Ch2_aroundtheworldin-80days/PASSEPARTOUT-IS-CONVINCED-THAT-HE-HAS-AT-LAST-FOUND-HIS-IDEAL---aroundtheworldin80days.mp4",
+									"quality": "HD"
+								}],
+								"duration": 405,
+								"captions": [{
+										"language": "en",
+										"captionType": "CLOSED_CAPTION",
+										"url": "https://d6hm6c1vbpfva.cloudfront.net/shortform-dc61d89665cf8a5c363925e7fcb4e382fa90f1f9_3/captions/Best_Speaker_Placement_cc_eng.srt"
+									},
+									{
+										"language": "en",
+										"captionType": "CLOSED_CAPTION",
+										"url": "https://d6hm6c1vbpfva.cloudfront.net/shortform-dc61d89665cf8a5c363925e7fcb4e382fa90f1f9_3/captions/Best_Speaker_Placement_cc_eng.vtt"
+									}
+								],
+								"language": "en-us"
+							},
+							"thumbnail": "https://archive.org/download/ATW-Ch2_aroundtheworldin-80days/ATW-Ch2_aroundtheworldin-80days.thumbs/PASSEPARTOUT-IS-CONVINCED-THAT-HE-HAS-AT-LAST-FOUND-HIS-IDEAL---aroundtheworldin80days_000298.jpg",
+							"shortDescription": "Faith, muttered Passepartout, somewhat flurried,",
 							"releaseDate": "2024-12-07",
-							"longDescription": "Mr. Phileas Fogg lived, in 1872, at No. 7, Saville Row, Burlington Gardens, the house in which Sheridan died in 1814. ",
+							"longDescription": "Mr. Phileas Fogg lived, in 1872, at No. 7, Saville Row, Burlington Gardens, the house in which Sheridan died in 1814.",
+							"tags": [
+								"tips"
+							],
+							"genres": [
+								"educational"
+								]
+						},
+						{
+							"id": "shortform-s1e3Aroundtheworld",
+							"title": "ATW | Chapter 3",
+							"episodeNumber": 3,
+							"content": {
+								"dateAdded": "2025-11-04T19:08:55Z",
+								"videos": [{
+									"videoType": "MP4",
+									"url": "https://archive.org/download/Atw-ch3-aroundtheworldin-80days-s-1/ch3.mp4",
+									"quality": "HD"
+								}],
+								"duration": 703,
+								"captions": [{
+										"language": "en",
+										"captionType": "CLOSED_CAPTION",
+										"url": "https://d6hm6c1vbpfva.cloudfront.net/shortform-dc61d89665cf8a5c363925e7fcb4e382fa90f1f9_3/captions/Best_Speaker_Placement_cc_eng.srt"
+									},
+									{
+										"language": "en",
+										"captionType": "CLOSED_CAPTION",
+										"url": "https://d6hm6c1vbpfva.cloudfront.net/shortform-dc61d89665cf8a5c363925e7fcb4e382fa90f1f9_3/captions/Best_Speaker_Placement_cc_eng.vtt"
+									}
+								],
+								"language": "en-us"
+							},
+							"thumbnail": "https://archive.org/download/Atw-ch3-aroundtheworldin-80days-s-1/Atw-ch3-aroundtheworldin-80days-s-1.thumbs/A-CONVERSATION-TAKES-PLACE-WHICH-SEEMS-LIKELY-TO-COST-PHILEAS---aroundtheworldin80days-s--1-_000001.jpg",
+							"shortDescription": "Phileas Fogg, having shut the door of his house at half-past eleven",
+							"releaseDate": "2024-12-07",
+							"longDescription": "Phileas Fogg, having shut the door of his house at half-past eleven, and having put his right foot before his left five hundred and seventy-five times, and his left foot before his right five hundred and seventy-six times, reached the Reform Club, an imposing edifice in Pall Mall, which could not have cost less than three millions.",
 							"tags": [
 								"Around the World, AudioDrama, Project Gutenberg"
 							],
 							"genres": [
 								"drama"
 							]
-							
+							"id":"shortform-s1e4Aroundtheworld",
+							"title": "ATW | Chapter 4",
+							"episodeNumber": 4,
+							"content": {
+								"dateAdded": "2025-11-04T19:08:55Z",
+								"videos": [{
+									"videoType": "MP4",
+									"url": "https://archive.org/download/Atw-ch4-aroundtheworldin-80days-s-1/IN-WHICH-PHILEAS-FOGG-ASTOUNDS-PASSEPARTOUT---aroundtheworldin80days-s--1-.mp4",
+									"quality": "HD"
+								}],
+								"duration": 360	,
+								"language": "en-us"
+							},
+							"thumbnail": "https://archive.org/download/Atw-ch4-aroundtheworldin-80days-s-1/Atw-ch4-aroundtheworldin-80days-s-1.thumbs/IN-WHICH-PHILEAS-FOGG-ASTOUNDS-PASSEPARTOUT---aroundtheworldin80days-s--1-_000001.jpg",
+							"shortDescription": "Having won twenty guineas at whist, and taken leave of his friends",
+							"releaseDate": "2024-12-08",
+							"longDescription": "Having won twenty guineas at whist, and taken leave of his friends, Phileas Fogg, at twenty-five minutes past seven, left the Reform Club.",
+							"tags": [
+								"Around the World, AudioDrama, Project Gutenberg"
 							],
+							"genres": [
+								"drama"
 							]
 						}
 					]
