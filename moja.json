@@ -232,6 +232,29 @@
 							"genres": [
 								"drama"
 							]
+							"id":"shortform-s1e4Aroundtheworld",
+							"title": "ATW | Chapter 4",
+							"episodeNumber": 4,
+							"content": {
+								"dateAdded": "2025-11-04T19:08:55Z",
+								"videos": [{
+									"videoType": "MP4",
+									"url": "https://archive.org/download/Atw-ch4-aroundtheworldin-80days-s-1/IN-WHICH-PHILEAS-FOGG-ASTOUNDS-PASSEPARTOUT---aroundtheworldin80days-s--1-.mp4",
+									"quality": "HD"
+								}],
+								"duration": 360	,
+								"language": "en-us"
+							},
+							"thumbnail": "https://archive.org/download/Atw-ch4-aroundtheworldin-80days-s-1/Atw-ch4-aroundtheworldin-80days-s-1.thumbs/IN-WHICH-PHILEAS-FOGG-ASTOUNDS-PASSEPARTOUT---aroundtheworldin80days-s--1-_000001.jpg",
+							"shortDescription": "Having won twenty guineas at whist, and taken leave of his friends",
+							"releaseDate": "2024-12-08",
+							"longDescription": "Having won twenty guineas at whist, and taken leave of his friends, Phileas Fogg, at twenty-five minutes past seven, left the Reform Club.",
+							"tags": [
+								"Around the World, AudioDrama, Project Gutenberg"
+							],
+							"genres": [
+								"drama"
+							]
 						}
 					]
 				},
